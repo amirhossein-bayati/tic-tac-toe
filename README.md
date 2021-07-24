@@ -1,6 +1,5 @@
 # tic-tac-toe
-graphical tic tac toe
-
+graphical tic tac toe.
 my first university project
 
 
