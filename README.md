@@ -1,6 +1,5 @@
 # tic-tac-toe
-graphical tic tac toe.
-my first university project
+TicTacToe is a classic game that I coded for my university course.
 
 
 # How to use
